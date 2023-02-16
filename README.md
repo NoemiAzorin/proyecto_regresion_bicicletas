@@ -6,6 +6,8 @@ Este repositorio contiene un proyecto grupal consistente en la creación de un m
 
 Observamos distintos archivos que se corresponden con cada uno de los procesos que se ha llevado a cabo para la creación del modelo y las correspondientes pruebas para mejorar las métricas.
 
+En la carpeta *datos* vemos toda la serie de csv que se han ido creando durante los distintos procesos de limpieza, estandarización, encoding, etc.
+
 ## *Librerías utilizadas* 📈
 
 - Pandas
